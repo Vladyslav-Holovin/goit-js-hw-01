@@ -4,7 +4,7 @@ function makeTransaction(quantity, pricePerDroid) {
     quantity +
     ' droids worth ' +
     quantity * pricePerDroid +
-    ' credits'
+    ' credits!'
   );
 }
 
